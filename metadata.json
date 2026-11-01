@@ -1,0 +1,6 @@
+{
+  "name": "The Nay Collection · Narrative Systems",
+  "description": "Curatorial archive, exhibition suite, and interactive educational museum adventure game for exploring the Nay Collection and narrative systems in art.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
